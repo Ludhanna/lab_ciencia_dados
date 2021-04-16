@@ -2,7 +2,6 @@
 
 # Criar  estrutura GIT para este projeto
 usethis::use_git()
-usethis::use_github()
 usethis::create_github_token()
 gitcreds::gitcreds_set()
 usethis::use_github()
